@@ -6,7 +6,15 @@
       "version": "1.0.0",
       "description": "برنامج لتوليد كلمات مرور قوية",
       "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/password_generator.zip",
-      "size_mb": 9.8
+      "size_mb": 10
+    },
+    {
+      "id": "cube_escape",
+      "name": "Cube Escape",
+      "version": "1.0.0",
+      "description": "انت مكعب ولازم تهرب",
+      "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/cube_escape.zip",
+      "size_mb": 98.5
     }
   ]
 }
