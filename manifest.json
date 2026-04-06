@@ -9,7 +9,7 @@
       "image_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/Photos/password_generator_photo.png",
       "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/password_generator.zip",
       "size_mb": 10,
-      "categories": ["Security"]
+      "categories": ["AL Apps", "Security"]
     },
     {
       "id": "cube_escape",
@@ -20,7 +20,7 @@
       "image_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/Photos/cube_escape_photo.png",
       "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/cube_escape.zip",
       "size_mb": 98.5,
-      "categories": ["Game", "2D"]
+      "categories": ["AL Apps", "Game", "2D"]
     },
     {
       "id": "fix_word",
@@ -31,7 +31,7 @@
       "image_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/Photos/fix_word_photo.png",
       "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.1.2/fix_word.zip",
       "size_mb": 25.2,
-      "categories": ["Utility"]
+      "categories": ["AL Apps", "assistant"]
     },
     {
       "id": "drink_water",
@@ -42,7 +42,18 @@
       "image_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/Photos/drink_water_photo.png",
       "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/drink_water.zip",
       "size_mb": 11.2,
-      "categories": ["Utility"]
+      "categories": ["AL Apps", "Utility"]
+    },
+    {
+      "id": "al_downloader",
+      "name": "AL Downloader",
+      "version": "1.0.0",
+      "description": "تحميل جميع مقاطع اليوتيب",
+      "developer": "vEEm",
+      "image_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/Photos/al_downloader_photo.png",
+      "download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/v1.0.0/al_downloader.zip",
+      "size_mb": 98.5,
+      "categories": ["AL Apps", "downloader"]
     }
   ]
 }
