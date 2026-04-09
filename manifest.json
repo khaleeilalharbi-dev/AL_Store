@@ -1,7 +1,7 @@
 {
   "store_version": "1.0.1",
-  "store_download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/latest/download/AL_Store.zip",
-  "store_changelog": "Test-اختبار\nاختبار Test",
+  "store_download_url": "https://github.com/khaleeilalharbi-dev/AL_Store/releases/download/ALUPDATE/AL_Store.zip",
+  "store_changelog": "Test Pls Download it\ntest\n test     t ",
   "apps": [
     {
       "id": "password_generator",
